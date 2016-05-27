@@ -32,7 +32,7 @@ D: 9 A->E->F->D
 ...
 ```
 
-*Tip: when you're storing your theoretical distances, use `INT_MAX` after you've included [climits](http://www.cplusplus.com/reference/climits/)*
+*Tip: when you're storing your theoretical distances, use `INT_MAX` after you've included [climits](http://www.cplusplus.com/reference/climits/) to represent infinity*
 
 ###BFS And DFS
 
