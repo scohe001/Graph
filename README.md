@@ -12,7 +12,7 @@ Your tasks
 
 ###Understanding Dijkstra's Algorithm
 
-Pull out that piece of paper and draw out Dijkstra's algorithm (performed on node A) for each of the following graphs (notice that these are the graphs that you're programming for):
+Pull out that piece of paper and draw out Dijkstra's algorithm (performed on node A) for each of the following graphs (notice that these are the graphs that you're programming for, so you can use this practice run of Dijkstra's as a test bench):
 
 ![](http://i.stack.imgur.com/90Qwu.png "I'm a graph!")
 ![](https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/Dijkstra.gif "And I'm a graph!")
