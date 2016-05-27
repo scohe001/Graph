@@ -37,6 +37,7 @@ Graph::Graph(int preset) {
             g[5].push_back(Edge(3, 2));
             g[5].push_back(Edge(4, 5));
             
+            break;
         case 2: //https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/Dijkstra.gif
             g = std::vector<std::list<Edge>>(7);
             
@@ -57,7 +58,8 @@ Graph::Graph(int preset) {
             //F has no outgoing edges...
             
             g[6].push_back(Edge(5, 1));
-        
+            
+            break;
         case 3: //http://d2vlcm61l7u1fs.cloudfront.net/media/7dc/7dcc48aa-8b7f-4492-bb95-df7c141f26b8/phpaNFvua.png
             
             g = std::vector<std::list<Edge>>(8);
@@ -84,5 +86,6 @@ Graph::Graph(int preset) {
             g[6].push_back(Edge(7, 1));
             
             //H has no outgoing edges...
+            break;
     }
 }
