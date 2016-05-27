@@ -28,7 +28,8 @@ The report should show the distance and how you got there like:
 A: 0 
 B: 5 A->C->B
 C: 2 A->C
-D: 9 A->E->F->D
+D: Unreachable
+E: 9 A->G->F->D
 ...
 ```
 
