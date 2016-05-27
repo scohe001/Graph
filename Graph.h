@@ -16,9 +16,9 @@ private:
     
 public:
     Graph(int); //Instantiates a preset graph
-    void dijkstra(int start); //TODO
-    void BFS(int start); //TODO
-    void DFS(int start); //TODO
+    void dijkstra(int start) const; //TODO
+    void BFS(int start) const; //TODO
+    void DFS(int start) const; //TODO
 };
 
 #endif //__GRAPH_H__
