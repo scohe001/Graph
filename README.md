@@ -32,6 +32,8 @@ D: 9 A->E->F->D
 ...
 ```
 
+*Tip: when you're storing your theoretical distances, use `INT_MAX` after you've included [climits](http://www.cplusplus.com/reference/climits/)*
+
 ###BFS And DFS
 
 Implement algorithms to print the nodes in BFS order and DFS order.
