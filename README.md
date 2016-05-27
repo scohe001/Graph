@@ -18,7 +18,7 @@ Pull out that piece of paper and draw out Dijkstra's algorithm (performed on nod
 ![And I'm a graph!](https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/Dijkstra.gif "Graph 2")
 ![Me too guys!!](http://d2vlcm61l7u1fs.cloudfront.net/media/7dc/7dcc48aa-8b7f-4492-bb95-df7c141f26b8/phpaNFvua.png "Graph 3")
 
-###Dijkstra's Algorithm
+###Programming Dijkstra's Algorithm
 
 Implement Dijkstra's Algorithm to start at the passed in node and print
 a report for the graph, so if 0 (A) was pass in for my made up graph,
