@@ -14,9 +14,9 @@ Your tasks
 
 Pull out that piece of paper and draw out Dijkstra's algorithm (performed on node A) for each of the following graphs (notice that these are the graphs that you're programming for):
 
-![I'm a graph!](http://i.stack.imgur.com/90Qwu.png "Graph 1")
-![And I'm a graph!](https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/Dijkstra.gif "Graph 2")
-![Me too guys!!](http://d2vlcm61l7u1fs.cloudfront.net/media/7dc/7dcc48aa-8b7f-4492-bb95-df7c141f26b8/phpaNFvua.png "Graph 3")
+![](http://i.stack.imgur.com/90Qwu.png "I'm a graph!")
+![](https://www.cs.bham.ac.uk/~mdr/teaching/modules04/java2/Dijkstra.gif "And I'm a graph!")
+![](http://d2vlcm61l7u1fs.cloudfront.net/media/7dc/7dcc48aa-8b7f-4492-bb95-df7c141f26b8/phpaNFvua.png "Me too guys!!")
 
 ###Programming Dijkstra's Algorithm
 
